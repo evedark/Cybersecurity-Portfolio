@@ -6,7 +6,6 @@
 4. Using Linux commands to manage file permissions
 ##File permissions in Linux
 **Project description**
-
 [Describe what you accomplish through Linux commands.]
 Check file and directory details
 [Add content here.]
