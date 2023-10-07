@@ -6,6 +6,7 @@
 4. Using Linux commands to manage file permissions
 ##File permissions in Linux
 **Project description**
+
 [Describe what you accomplish through Linux commands.]
 Check file and directory details
 [Add content here.]
@@ -20,8 +21,8 @@ Change directory permissions
 Summary
 [Add content here.]
 
-5. Applying filters to SQL queries
-6. Identifying vulnerabilities for a small business
-7. Documenting incidents with an incident handler’s journal
-8. Importing and parsing a text file in a security-related scenario
-9. Creating or revising a resume
+6. Applying filters to SQL queries
+7. Identifying vulnerabilities for a small business
+8. Documenting incidents with an incident handler’s journal
+9. Importing and parsing a text file in a security-related scenario
+10. Creating or revising a resume
