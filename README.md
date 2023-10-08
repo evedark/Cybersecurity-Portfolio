@@ -3,6 +3,7 @@
 1. Drafting a professional statement
 2. Conducting a security audit
 3. Analyzing network structure and security
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4. Using Linux commands to manage file permissions
 ##File permissions in Linux
 
@@ -28,60 +29,15 @@ With the commands ls I could list the files and directories and using option l, 
 
 Summary
 [Add content here.]
-
-6. Applying filters to SQL queries
-7. Identifying vulnerabilities for a small business
-8. Documenting incidents with an incident handler’s journal
-9. Importing and parsing a text file in a security-related scenario
-10. Creating or revising a resume
-
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5. Applying filters to SQL queries
+6. Identifying vulnerabilities for a small business
+7. Documenting incidents with an incident handler’s journal
+8. Importing and parsing a text file in a security-related scenario
+9. Creating or revising a resume
 
 
 
-Heading	# H1
-## H2
-### H3
-Bold	**bold text**
-Italic	*italicized text*
-Blockquote	> blockquote
-Ordered List	1. First item
-2. Second item
-3. Third item
-Unordered List	- First item
-- Second item
-- Third item
-Code	`code`
-Horizontal Rule	---
-Link	[title](https://www.example.com)
-Image	![alt text](image.jpg)
-Extended Syntax
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
-Element	Markdown Syntax
-Table	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-Fenced Code Block	```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-Footnote	Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
-Heading ID	### My Great Heading {#custom-id}
-Definition List	term
-: definition
-Strikethrough	~~The world is flat.~~
-Task List	- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-Emoji
-(see also Copying and Pasting Emoji)	That is so funny! :joy:
-Highlight	I need to highlight these ==very important words==.
-Subscript	H~2~O
-Superscript	X^2^
+
