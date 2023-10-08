@@ -20,12 +20,15 @@ With the commands ls I could list the files and directories and using option l, 
 
 "chmod". Using + or - signs with u:users, g:group and o:others; and the permissions, r:read, w:write and x: executable.
 
-**Change file permissions**
+**Change file permissions:**
+I used the commands ls -la, to list all files and directories and permissions. After that I used chmod to change permissions and o-w to remove the write permission fo the file project_k.txt. I also did the same to remove read group permission os project_m.txt
 
 
-**Change file permissions on a hidden file**
+**Change file permissions on a hidden file:**
+With the hidden file, I used the same process to a .project_x.txt
 
-**Change directory permissions**
+**Change directory permissions:**
+The directory was the same process.
 
 
 ![User prermition1](https://github.com/evedark/Cybersecurity-Portfolio/assets/6460489/62864ac4-f667-4665-b78f-4ce98788d2dc)
