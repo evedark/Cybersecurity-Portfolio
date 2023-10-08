@@ -5,15 +5,19 @@
 3. Analyzing network structure and security
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4. Using Linux commands to manage file permissions
-##File permissions in Linux
 
-**Project description**
+##File permissions in Linux:
+
+**Project description:**
+
 I could change file and directories permissions. "chmod". Using + or - signs with u:users, g:group and o:others; and the permissions, r:read, w:write and x: executable.
 
-**Check file and directory details**
+**Check file and directory details:**
+
 With the commands ls I could list the files and directories and using option l, to list the files and directories with all permissions; and option a to list the hidden files and directories.
 
-**Describe the permissions string**
+**Describe the permissions string:**
+
 "chmod". Using + or - signs with u:users, g:group and o:others; and the permissions, r:read, w:write and x: executable.
 
 **Change file permissions**
