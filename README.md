@@ -23,8 +23,9 @@ With the commands ls I could list the files and directories and using option l, 
 **Change directory permissions**
 
 
+![User prermition1](https://github.com/evedark/Cybersecurity-Portfolio/assets/6460489/62864ac4-f667-4665-b78f-4ce98788d2dc)
+![file permitions 2](https://github.com/evedark/Cybersecurity-Portfolio/assets/6460489/cd8a29ff-29de-46b5-8d8d-b598f0f530f2)
 
-![alt text](
 Summary
 [Add content here.]
 
