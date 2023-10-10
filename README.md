@@ -40,7 +40,10 @@ The directory was the same process.
 Summary
 [Add content here.]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 5. Applying filters to SQL queries
+
+
 6. Identifying vulnerabilities for a small business
 7. Documenting incidents with an incident handler’s journal
 8. Importing and parsing a text file in a security-related scenario
