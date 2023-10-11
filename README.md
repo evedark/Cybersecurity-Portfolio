@@ -1,10 +1,4 @@
-# Cybersecurity-Portfolio
-
-1. Drafting a professional statement
-2. Conducting a security audit
-3. Analyzing network structure and security
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-4. Using Linux commands to manage file permissions
+# Using Linux commands to manage file permissions
 
 ##File permissions in Linux:
 
@@ -41,7 +35,9 @@ Summary
 [Add content here.]
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5. Applying filters to SQL queries
+1. Drafting a professional statement
+2. Conducting a security audit
+3. Analyzing network structure and security
 
 
 6. Identifying vulnerabilities for a small business
